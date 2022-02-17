@@ -1,0 +1,8 @@
+.image{
+    height: 40vh;
+    object-fit: contain;
+}
+.product-name{
+    text-decoration: none;
+    color: #000000;
+}
